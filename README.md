@@ -10,17 +10,12 @@ Implement some animations, changing the original colour and adding background pi
 
 Throughout this lesson, I’ve learned about:
 
-• Image alt texts
-
-• Flex child containers
-
-• Inheritance
-
-• Shorthands
-
-• Web-safe fonts
-
-• Color palettes
+- [x] Image alt texts
+- [x] Flex child containers
+- [x] Inheritance
+- [x] Shorthands
+- [x] Web-safe fonts
+- [x] Color palettes
 
 ## Authors
 
